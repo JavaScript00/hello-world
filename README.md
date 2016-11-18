@@ -1,2 +1,4 @@
 # hello-world
-just another respository
+
+Hi Humans!
+Sihe here,I like javascript.
